@@ -40,27 +40,85 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: RNTBCI
+        title: Renault Nissan Technology & Business Centre India, Chennai
        # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Technical Lead/Deputy Manager
-        caption: August 2021 - Present
+        caption: Aug 2021 - Present
         quote: >
             Solving business problems using advanced technologies.
         description: | # this will include new lines to allow paragraphs
             Developed various PoC projects focussing on emerging technologies.
-
+      - layout: left
+        title: JMN Investments Research (P) Ltd., Chennai
+       # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Analytics Specialist
+        caption: Oct 2021 - Aug 2021
+        quote: >
+            Solving business problems in the financial services domain using scripts.
+        description: | # this will include new lines to allow paragraphs
+            Supported the analytics team of a US investment bank by developing scripts in Python, R & VBA.
+      - layout: left
+        title: CSE Group Pvt. Ltd., Chennai
+       # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Research Analyst
+        caption: Jul 2013 - Jan 2015
+        quote: >
+            Provided financial research services to clients.
+        description: | # this will include new lines to allow paragraphs
+            Financial and statistical modeling using Excel & SPSS.
+      - layout: left
+        title: Algorithmics (acquired by IBM), London
+       # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Financial Engineer/Quant
+        caption: Jul 2011 - Feb 2012
+        quote: >
+            Provided financial modeling and validation services to clients.
+        description: | # this will include new lines to allow paragraphs
+            Financial modeling and validation using C++ & VBA.
+                Financial and statistical modeling using Excel & SPSS.
+      - layout: left
+        title: RBS Insurance, London
+       # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Developer/Contractor
+        caption: Mar 2010 - Jul 2011
+        quote: >
+            Development of Insurance Quotation Tools.
+        description: | # this will include new lines to allow paragraphs
+            Developed quotation tools and policy wording documentation-generating routines using Excel/Access/VBA.
+      - layout: left
+        title: Borland Software, Singapore
+       # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Engineer
+        caption: Jul 2005 - Aug 2008
+        quote: >
+            Testing Middleware produccts.
+        description: | # this will include new lines to allow paragraphs
+            Developed functional test-cases using Java & C++.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Cass Business School (now, renamed as Bayes Business School), London
-        caption: 2009 - 2010
-        sub_title: MSc Investment Management
+        caption: 2008 - 2009
+        sub_title: MSc Investment Management (Distinction)
         quote: >
           CFA Programme Partner, CISI Centre of Excellence, Ranked 19 in Financial Times Rankings of European Business Schools in 2014 and a Global Ranking of 45 in 2015. The course is a Chartered Financial Analyst Institute (CFA) Programme Partner and is accredited by the Chartered Institute of Securities & Investment (CISI) and the Chartered Alternative Investment Analysts Association (CAIA). 
         description: | # this will include new lines to allow paragraphs
-          During my time at Cass, I learnt about the valuation of financial instruments. 
+          During my time at Cass, I learnt about the valuation of financial instruments along with skills such as working amidst pressure and thriving in a team environment. 
+      - layout: left
+        title: Nanyang Technological University
+        caption: 2001 - 2005
+        sub_title: B.Engg. Electrical & Electronics Engineering (First Class Honours)
+        quote: >
+          My study was fully funded by the Nanyang Scholarship. 
+        description: | # this will include new lines to allow paragraphs
+          During my time at NTU, I learnt about conducting independent research online which would form the base of my later career in software programming. 
 
   - title: A Little More About Me
     layout: text
@@ -68,6 +126,7 @@ content:
       Alongside my interests in software programming some of my other interests and hobbies are:
       - Reading books
       - Listening to music
+      - Going for long walks
 
 # Footer
 footer_show_references: true
