@@ -16,9 +16,10 @@ darkmode: false
 linkedin_username: srikanthmurleedharan
 
 # Additional icon links
- - title: HackerRank
-   icon: fab fa-hackerrank
-   url: https://www.hackerrank.com/srikanth_nm
+additional_links:
+- title: HackerRank
+  icon: fab fa-hackerrank
+  url: https://www.hackerrank.com/srikanth_nm
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -28,7 +29,7 @@ linkedin_username: srikanthmurleedharan
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/photo.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Srikanth and I am a technical lead/software developer. I have worked at a number of companies gaining teamwork, technical and leadership skills.
 
