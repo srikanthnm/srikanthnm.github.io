@@ -16,9 +16,9 @@ darkmode: false
 linkedin_username: srikanthmurleedharan
 
 # Additional icon links
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+ - title: HackerRank
+   icon: fab fa-hackerrank
+   url: https://www.hackerrank.com/srikanth_nm
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -30,7 +30,7 @@ linkedin_username: srikanthmurleedharan
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Srikanth and I'm a technical lead/software developer. I have worked at a number of companies gaining teamwork, technical and leadership skills.
+  Hi, my name is Srikanth and I am a technical lead/software developer. I have worked at a number of companies gaining teamwork, technical and leadership skills.
 
   I am most skilled in: <mark>Python/R/VBA</mark> and <mark>Eating Sambhar Rice</mark>
 
@@ -44,7 +44,7 @@ content:
        # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Technical Lead/Deputy Manager
-        caption: Aug 2021 - Present
+        caption: 2021 - Present
         quote: >
             Solving business problems using advanced technologies.
         description: | # this will include new lines to allow paragraphs
@@ -54,7 +54,7 @@ content:
        # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Analytics Specialist
-        caption: Oct 2021 - Aug 2021
+        caption: 2015 - 2021
         quote: >
             Solving business problems in the financial services domain using scripts.
         description: | # this will include new lines to allow paragraphs
@@ -64,7 +64,7 @@ content:
        # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Research Analyst
-        caption: Jul 2013 - Jan 2015
+        caption: 2013 - 2015
         quote: >
             Provided financial research services to clients.
         description: | # this will include new lines to allow paragraphs
@@ -74,7 +74,7 @@ content:
        # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Financial Engineer/Quant
-        caption: Jul 2011 - Feb 2012
+        caption: 2011 - 2012
         quote: >
             Provided financial modeling and validation services to clients.
         description: | # this will include new lines to allow paragraphs
@@ -85,7 +85,7 @@ content:
        # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Developer/Contractor
-        caption: Mar 2010 - Jul 2011
+        caption: 2010 - 2011
         quote: >
             Development of Insurance Quotation Tools.
         description: | # this will include new lines to allow paragraphs
@@ -95,9 +95,9 @@ content:
        # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Engineer
-        caption: Jul 2005 - Aug 2008
+        caption: 2005 - 2008
         quote: >
-            Testing Middleware produccts.
+            Testing enterprise middleware products.
         description: | # this will include new lines to allow paragraphs
             Developed functional test-cases using Java & C++.
   - title: Education # Title for the section
