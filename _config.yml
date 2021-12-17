@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Srikanth Murleedharan
-title: Technical Lead/Deputy Manager
+title: Technical Lead/Senior Developer
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -44,7 +44,7 @@ content:
         title: Renault Nissan Technology & Business Centre India, Chennai
        # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Technical Lead/Deputy Manager
+        sub_title: Technical Lead/Senior Developer
         caption: 2021 - Present
         quote: >
             Solving business problems using advanced technologies.
@@ -119,7 +119,7 @@ content:
         quote: >
           My study was fully funded by the Nanyang Scholarship. 
         description: | # this will include new lines to allow paragraphs
-          During my time at NTU, I learnt about conducting independent research online which would form the base of my later career in software programming. 
+          During my time at NTU, I learnt about conducting independent research online which would form the basis of my later career in software programming. 
 
   - title: A Little More About Me
     layout: text
