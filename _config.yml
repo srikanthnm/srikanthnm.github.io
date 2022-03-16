@@ -29,7 +29,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/photo.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Srikanth Murleedharan and I am a Technical Lead. I have a background of engineering (Nanyang Technological University, Singapore), finance/investments (Bayes Business School, London) and programming (Python, R, VBA) and have 15+ years of experience in using technology to solve business problems
 
