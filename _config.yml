@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Srikanth Murleedharan
-title: Technical Lead/Senior Developer
+title: Technical Lead
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -31,7 +31,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Srikanth and I am a technical lead/software developer. I have worked at a number of companies gaining teamwork, technical and leadership skills.
+  Hi, my name is Srikanth Murleedharan and I am a Technical Lead. I have a background of engineering (Nanyang Technological University, Singapore), finance/investments (Bayes Business School, London) and programming (Python, R, VBA) and have 15+ years of experience in using technology to solve business problems
 
   I am most skilled in: <mark>Python/R/VBA</mark>.
 
@@ -80,7 +80,6 @@ content:
             Provided financial modeling and validation services to clients.
         description: | # this will include new lines to allow paragraphs
             Financial modeling and validation using C++ & VBA.
-                Financial and statistical modeling using Excel & SPSS.
       - layout: left
         title: RBS Insurance, London
        # link: boringcompany.com
@@ -88,9 +87,9 @@ content:
         sub_title: Developer/Contractor
         caption: 2010 - 2011
         quote: >
-            Development of Insurance Quotation Tools.
+            Development of Commercial Insurance Quotation Tools.
         description: | # this will include new lines to allow paragraphs
-            Developed quotation tools and policy wording documentation-generating routines using Excel/Access/VBA.
+            Developed quotation tools and policy-wording documentation-generating routines using Excel/Access/VBA.
       - layout: left
         title: Borland Software, Singapore
        # link: boringcompany.com
