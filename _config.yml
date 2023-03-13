@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Srikanth Murleedharan
-title: Technical Lead
+title: Lead Developer
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -31,7 +31,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/photo.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Srikanth Murleedharan and I am a Technical Lead. I have a background of engineering (Nanyang Technological University, Singapore), finance/investments (Bayes Business School, London) and programming (Python, R, VBA) and have 15+ years of experience in using technology to solve business problems
+  Hi there, my name is Srikanth Murleedharan and I am a Lead Developer in the AI/ML space. I have a background of engineering (Nanyang Technological University, Singapore), finance/investments (Bayes Business School, London) and programming (Python, R, VBA) and 15+ years of experience in using technology to solve business problems.
 
   I am most skilled in: <mark>Python/R/VBA</mark>.
 
@@ -44,12 +44,12 @@ content:
         title: Renault Nissan Technology & Business Centre India, Chennai
        # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Technical Lead/Senior Developer
+        sub_title: Technical Lead/Lead Developer
         caption: 2021 - Present
         quote: >
-            Solving business problems using advanced technologies.
+            Solving business problems in the automotive domain using advanced technologies.
         description: | # this will include new lines to allow paragraphs
-            Developed various PoC projects focussing on emerging technologies.
+            Developed various solutions focussing on emerging technologies (Conversational AI, NLP, Python).
       - layout: left
         title: JMN Investments Research (P) Ltd., Chennai
        # link: boringcompany.com
@@ -74,7 +74,7 @@ content:
         title: Algorithmics (acquired by IBM), London
        # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Financial Engineer/Quant
+        sub_title: Quantitative Developer
         caption: 2011 - 2012
         quote: >
             Provided financial modeling and validation services to clients.
@@ -124,9 +124,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in software programming some of my other interests and hobbies are:
-      - Reading books
+      - Reading non-fiction books
       - Listening to music
-      - Going for long walks
+      - Exercising regularly
 
 # Footer
 footer_show_references: true
